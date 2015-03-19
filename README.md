@@ -1,23 +1,40 @@
-## GA Data Science: Example Projects
+## General Assembly Data Science Course: Student Projects
 
-This repo is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming GA Data Science students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
+This repo is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
 
+* [NPR One: App Store Reviews Text Analysis](pdf/npr_reviews_presentation.pdf)
+    * Can we use app store review data to identify the app features that are critical to its success?
+* [NPR One: Predicting User Behavior with N-Nearest Neighbor Stories](pdf/npr_stories_presentation.pdf)
+    * Can we predict which stories to play for an app user by measuring the similarity between stories?
+* [Social media and brand marketing in the hotel industry](pdf/hotel_presentation.pdf)
+    * How are different hotel brands engaging users on Twitter, and what is the customer response?
+    * Other links: [paper](pdf/hotel_paper.pdf), [code](https://github.com/dblosqrl/hoteltweets)
+* [Predicting Kickstarter](pdf/kickstarter_presentation.pdf)
+    * Can we predict whether a Kickstarter project will be funded based on the project characteristics?
+    * Other links: [code](http://nbviewer.ipython.org/url/www.rubennaeff.nl/extra/gads7/rubennaeff_kickstarter_notebook.ipynb)
+* [Kaggle Allstate Purchase Prediction Challenge](https://speakerdeck.com/justmarkham/allstate-purchase-prediction-challenge-on-kaggle)
+    * Can we predict which car insurance options a customer will buy based on the quotes they reviewed?
+    * Other links: [paper and code](https://github.com/justmarkham/kaggle-allstate)
+* [Predicting Loan Defaults in Peer-to-Peer Lending Markets](pdf/loans_presentation.pdf)
+    * Can we predict which Lending Club loans will default based on the loan and borrower characteristics?
+    * Other links: [paper](pdf/loans_paper.pdf)
+* [Predicting User Churn](pdf/churn_presentation.pdf)
+    * Can we predict which LearnZillion users will turn into engaged users based on their actions?
+* [Twitter Music Recommendation Engine](pdf/music_presentation.pdf)
+    * Can we recommend music for a Twitter user based on their similarity to Twitter feeds of artists?
+* [Travel Recommendations Using Social Media Data](pdf/travel_presentation.pdf)
+    * Can we recommend countries to visit based on a user's travel history as captured on social media?
+    * Other links: [paper](pdf/travel_paper.pdf)
+* [Bike Sharing in Mexico City](pdf/bike_presentation.pdf)
+    * Can we predict demand for the Mexico City bikesharing system based on weather data and user characteristics?
+    * Other links: [code](https://github.com/justmarkham/gadsdc2/tree/master/final_project/jesus)
+* [Data Athletics](pdf/athletics_presentation.pdf)
+    * Can we predict an athlete's future performance based on their race history and training data?
+    * Other links: [code and data](https://github.com/cabhishek/datascience)
+* [Classifying PDFs as Likely Malicious or Likely Benign](pdf/malware_presentation.pdf)
+    * Can we predict whether a PDF contains malware based on its characteristics?
 
-### Project files in this repo
+### Other data science student projects (not from General Assembly)
 
-* Data Athletics: Analyzing Triathlete's Performance: [presentation](pdf/athletics_presentation.pdf), [code and data](https://github.com/cabhishek/datascience)
-* Bike Sharing in Mexico City: [presentation](pdf/bike_presentation.pdf), [code](https://github.com/justmarkham/gadsdc2/tree/master/final_project/jesus)
-* Predicting User Churn: [presentation](pdf/churn_presentation.pdf)
-* Social media and brand marketing in the hotel industry: [paper](pdf/hotel_paper.pdf), [presentation](pdf/hotel_presentation.pdf), [code](https://github.com/dblosqrl/hoteltweets)
-* Predicting Kickstarter: [presentation](pdf/kickstarter_presentation.pdf), [code](http://nbviewer.ipython.org/url/www.rubennaeff.nl/extra/gads7/rubennaeff_kickstarter_notebook.ipynb)
-* Predicting Loan Defaults in Peer-to-Peer Lending Markets: [paper](pdf/loans_paper.pdf), [presentation](pdf/loans_presentation.pdf)
-* Classifying PDFs as Likely Malicious or Likely Benign: [presentation](pdf/malware_presentation.pdf)
-* Twitter Music Recommendation Engine: [presentation](pdf/music_presentation.pdf)
-* NPR One: App Store Reviews Text Analysis: [presentation](pdf/npr_reviews_presentation.pdf)
-* NPR One: Predicting User Behavior with N-Nearest Neighbor Stories: [presentation](pdf/npr_stories_presentation.pdf)
-* Can I use social media data to recommend countries to visit based on my travel history?: [paper](pdf/travel_paper.pdf), [presentation](pdf/travel_presentation.pdf)
-
-
-### External links to projects
-
-* Kaggle Allstate Purchase Prediction Challenge: [paper, presentation, code](https://github.com/justmarkham/kaggle-allstate)
+* [Zipfian Academy](http://www.zipfianacademy.com/alumni): Zipfian Academy offers a 12-week immersive data science program. Hover over the student photos to find links to their capstone projects.
+* [Stanford's Machine Learning coure](http://cs229.stanford.edu/): Machine learning-focused student projects from Andrew Ng's course. Click on the "recent years' projects" links at the bottom of the page to access hundreds of project papers.
