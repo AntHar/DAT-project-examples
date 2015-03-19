@@ -1,4 +1,4 @@
-## General Assembly Data Science Course: Student Projects
+## General Assembly Data Science Course: Example Student Projects
 
 This repo is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
 
@@ -37,4 +37,4 @@ This repo is a collection of example projects from students in General Assembly'
 ### Other data science student projects (not from General Assembly)
 
 * [Zipfian Academy](http://www.zipfianacademy.com/alumni): Zipfian Academy offers a 12-week immersive data science program. Hover over the student photos to find links to their capstone projects.
-* [Stanford's Machine Learning coure](http://cs229.stanford.edu/): Machine learning-focused student projects from Andrew Ng's course. Click on the "recent years' projects" links at the bottom of the page to access hundreds of project papers.
+* [Stanford's Machine Learning coure](http://cs229.stanford.edu/): Machine learning-focused student projects from Andrew Ng's course. Click on the project links at the very bottom of the page to access hundreds of project papers.
