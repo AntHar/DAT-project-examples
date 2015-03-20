@@ -6,18 +6,30 @@ This repo is a collection of example projects from students in General Assembly'
     * Can we use app store review data to identify the app features that are critical to its success?
 * [NPR One: Predicting User Behavior with N-Nearest Neighbor Stories](pdf/npr_stories_presentation.pdf)
     * Can we predict which stories to play for an app user by measuring the similarity between stories?
+* [MetroMetric](pdf/bus_presentation.pdf)
+    * How accurate are NextBus predictions of bus arrival time, and can predictions be improved using other data?
+    * Other links: [code, data](https://github.com/dokbrown/MetroMetric)
 * [Social media and brand marketing in the hotel industry](pdf/hotel_presentation.pdf)
     * How are different hotel brands engaging users on Twitter, and what is the customer response?
     * Other links: [paper](pdf/hotel_paper.pdf), [code](https://github.com/dblosqrl/hoteltweets)
 * [Predicting Kickstarter](pdf/kickstarter_presentation.pdf)
     * Can we predict whether a Kickstarter project will be funded based on the project characteristics?
     * Other links: [code](http://nbviewer.ipython.org/url/www.rubennaeff.nl/extra/gads7/rubennaeff_kickstarter_notebook.ipynb)
+* [Selling Ideas](pdf/startup_presentation.pdf)
+    * Can we predict the amount of venture funding a startup will receive based on its patent applications?
+    * Other links: [paper, code, data](https://github.com/jwknobloch/DAT4_final_project)
 * [Kaggle Allstate Purchase Prediction Challenge](https://speakerdeck.com/justmarkham/allstate-purchase-prediction-challenge-on-kaggle)
     * Can we predict which car insurance options a customer will buy based on the quotes they reviewed?
-    * Other links: [paper and code](https://github.com/justmarkham/kaggle-allstate)
+    * Other links: [paper, code](https://github.com/justmarkham/kaggle-allstate)
+* [Kaggle Driver Telematics Analysis](pdf/driver_presentation.pdf)
+    * Can drivers be identified using their driving characteristics?
+    * Other links: [paper, code](https://github.com/justmarkham/DAT4-students/tree/master/frank/project_final)
 * [Predicting Loan Defaults in Peer-to-Peer Lending Markets](pdf/loans_presentation.pdf)
     * Can we predict which Lending Club loans will default based on the loan and borrower characteristics?
     * Other links: [paper](pdf/loans_paper.pdf)
+* [Machine Technical Analysis](pdf/visual_presentation.pdf)
+    * Can visual features be used for predictive modeling of security prices?
+    * Other links: [paper, code, data](https://github.com/cs79/TS_Project)
 * [Predicting User Churn](pdf/churn_presentation.pdf)
     * Can we predict which LearnZillion users will turn into engaged users based on their actions?
 * [Twitter Music Recommendation Engine](pdf/music_presentation.pdf)
@@ -30,7 +42,7 @@ This repo is a collection of example projects from students in General Assembly'
     * Other links: [code](https://github.com/justmarkham/gadsdc2/tree/master/final_project/jesus)
 * [Data Athletics](pdf/athletics_presentation.pdf)
     * Can we predict an athlete's future performance based on their race history and training data?
-    * Other links: [code and data](https://github.com/cabhishek/datascience)
+    * Other links: [code, data](https://github.com/cabhishek/datascience)
 * [Classifying PDFs as Likely Malicious or Likely Benign](pdf/malware_presentation.pdf)
     * Can we predict whether a PDF contains malware based on its characteristics?
 
