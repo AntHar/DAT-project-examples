@@ -24,12 +24,18 @@ This repo is a collection of example projects from students in General Assembly'
 * [Kaggle Driver Telematics Analysis](pdf/driver_presentation.pdf)
     * Can drivers be identified using their driving characteristics?
     * Other links: [paper, code](https://github.com/justmarkham/DAT4-students/tree/master/frank/project_final)
+* [Kaggle Seizure Prediction Challenge](pdf/seizure_presentation.pdf)
+    * Can impending seizures be predicted using brain activity data?
+    * Other links: [paper, code, data](https://github.com/justmarkham/DAT3-students/tree/master/chad/project)
 * [Predicting Loan Defaults in Peer-to-Peer Lending Markets](pdf/loans_presentation.pdf)
     * Can we predict which Lending Club loans will default based on the loan and borrower characteristics?
     * Other links: [paper](pdf/loans_paper.pdf)
 * [Machine Technical Analysis](pdf/visual_presentation.pdf)
     * Can visual features be used for predictive modeling of security prices?
     * Other links: [paper, code, data](https://github.com/cs79/TS_Project)
+* [Predicting Treasury Yields](pdf/yields_presentation.pdf)
+    * Can we predict US Treasury yields using macroeconomic data?
+    * Other links: [paper](pdf/yields_paper.pdf), [code, data](https://github.com/justmarkham/DAT3-students/tree/master/linda)
 * [Predicting User Churn](pdf/churn_presentation.pdf)
     * Can we predict which LearnZillion users will turn into engaged users based on their actions?
 * [Twitter Music Recommendation Engine](pdf/music_presentation.pdf)
@@ -37,6 +43,9 @@ This repo is a collection of example projects from students in General Assembly'
 * [Travel Recommendations Using Social Media Data](pdf/travel_presentation.pdf)
     * Can we recommend countries to visit based on a user's travel history as captured on social media?
     * Other links: [paper](pdf/travel_paper.pdf)
+* [Predicting Flight Delays](pdf/flight_presentation.pdf)
+    * Can we predict flight delays using environmental factors and flight characteristics?
+    * Other links: [paper](pdf/flight_paper.pdf), [code, data](https://github.com/justmarkham/DAT3-students/tree/master/christine/Final%20Project)
 * [Bike Sharing in Mexico City](pdf/bike_presentation.pdf)
     * Can we predict demand for the Mexico City bikesharing system based on weather data and user characteristics?
     * Other links: [code](https://github.com/justmarkham/gadsdc2/tree/master/final_project/jesus)
