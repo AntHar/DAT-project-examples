@@ -1,6 +1,6 @@
 ## General Assembly Data Science Course: Example Student Projects
 
-This repository is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
+This repository is a collection of **example projects** from students in General Assembly's part-time [Data Science course](https://generalassemb.ly/education/data-science). Its purpose is to give incoming students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
 
 * [NPR One: App Store Reviews Text Analysis](pdf/npr_reviews_presentation.pdf)
     * Can we use app store review data to identify the app features that are critical to its success?
