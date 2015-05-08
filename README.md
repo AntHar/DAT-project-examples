@@ -1,6 +1,6 @@
 ## General Assembly Data Science Course: Example Student Projects
 
-This repo is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
+This repository is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
 
 * [NPR One: App Store Reviews Text Analysis](pdf/npr_reviews_presentation.pdf)
     * Can we use app store review data to identify the app features that are critical to its success?
@@ -9,6 +9,11 @@ This repo is a collection of example projects from students in General Assembly'
 * [MetroMetric](pdf/bus_presentation.pdf)
     * How accurate are NextBus predictions of bus arrival time, and can predictions be improved using other data?
     * Other links: [code, data](https://github.com/dokbrown/MetroMetric)
+* [Forecasting the All-NBA Teams](pdf/nba_presentation.pdf)
+    * Can we predict the 2015 All-NBA Teams based on player statistics?
+    * Other links: [paper](pdf/nba_paper.pdf), [code, data](https://github.com/justmarkham/DAT4-students/tree/master/kerry/Final)
+* [Billboard Top 40 Song Analysis](http://nbviewer.ipython.org/github/lentzma/Billboard_Top_40/blob/master/DAT13FinalLentz.ipynb)
+    * Can we predict the popularity, decade, and genre of hit songs from the past 54 years based on song characteristics?
 * [Social media and brand marketing in the hotel industry](pdf/hotel_presentation.pdf)
     * How are different hotel brands engaging users on Twitter, and what is the customer response?
     * Other links: [paper](pdf/hotel_paper.pdf), [code](https://github.com/dblosqrl/hoteltweets)
