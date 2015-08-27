@@ -23,6 +23,9 @@ This repository is a collection of **example projects** from students in General
 * [Selling Ideas](pdf/startup_presentation.pdf)
     * Can we predict the amount of venture funding a startup will receive based on its patent applications?
     * Other links: [paper, code, data](https://github.com/jwknobloch/DAT4_final_project)
+* [Predicting Crime in DC](pdf/crime_presentation.pdf)
+    * Can we predict whether a crime is violent or non-violent based on neighborhood characteristics, weather, and other factors?
+    * Other links: [paper](pdf/crime_paper.pdf), [code, data](https://github.com/debbiekyu/DAT7Coursework/tree/master/Project)
 * [Kaggle Allstate Purchase Prediction Challenge](https://speakerdeck.com/justmarkham/allstate-purchase-prediction-challenge-on-kaggle)
     * Can we predict which car insurance options a customer will buy based on the quotes they reviewed?
     * Other links: [paper, code](https://github.com/justmarkham/kaggle-allstate)
@@ -41,6 +44,9 @@ This repository is a collection of **example projects** from students in General
 * [Predicting Treasury Yields](pdf/yields_presentation.pdf)
     * Can we predict US Treasury yields using macroeconomic data?
     * Other links: [paper](pdf/yields_paper.pdf), [code, data](https://github.com/justmarkham/DAT3-students/tree/master/linda)
+* [Predicting Dota 2 Matches Using Machine Learning](pdf/dota_presentation.pdf)
+    * Can we predict the outcome of a Dota 2 match before it begins based on hero selection?
+    * Other links: [paper](pdf/dota_paper.pdf), [code, data](https://github.com/kpomerleau/Dscienceclass/tree/master/FinalProject)
 * [Predicting User Churn](pdf/churn_presentation.pdf)
     * Can we predict which LearnZillion users will turn into engaged users based on their actions?
 * [Twitter Music Recommendation Engine](pdf/music_presentation.pdf)
